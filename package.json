@@ -1,0 +1,37 @@
+{
+  "name": "traffic_police_h5",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.1.2",
+    "dingtalk-jsapi": "^2.8.33",
+    "exif-js": "^2.3.0",
+    "umi-request": "^1.2.8",
+    "underscore": "^1.9.1",
+    "vant": "^2.2.9",
+    "vue": "^2.6.10",
+    "vue-cropperjs": "^4.0.1",
+    "vue-navigation": "^1.1.4",
+    "vue-router": "^3.0.6",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-plugin-eslint": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-import": "^1.12.2",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "moment": "^2.24.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
